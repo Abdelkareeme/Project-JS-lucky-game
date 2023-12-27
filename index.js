@@ -28,7 +28,7 @@ lolo.setAttribute("src",randomImage1) ;
 
 if (randomNumber1>randomnumber2) {
 
-document.querySelector("h1").innerHTML=("you are born in the month of " + "" + tweet +" & your dice has higher number than unlucky devil dice , it seems your look is to the moon today 🚀") ;
+document.querySelector("h1").innerHTML=("you are born in the month of " + "" + tweet +" & your dice has higher number than unlucky devil dice , it seems your luck is to the moon today 🚀") ;
 
 } else if (randomNumber1<randomnumber2) {
 
