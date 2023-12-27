@@ -28,14 +28,14 @@ lolo.setAttribute("src",randomImage1) ;
 
 if (randomNumber1>randomnumber2) {
 
-document.querySelector("h1").innerHTML=("you are born in the month of " + "" + tweet +" & your dice has higher number than unluck dice , it seems your look is to the moon today 🚀") ;
+document.querySelector("h1").innerHTML=("you are born in the month of " + "" + tweet +" & your dice has higher number than unlucky devil dice , it seems your look is to the moon today 🚀") ;
 
 } else if (randomNumber1<randomnumber2) {
 
     document.querySelector("h1").innerHTML=("you are born in the the month of" +"" + tweet +" & your dice has lower number than unluck dice,tomorrow will be better sir 🗿");
 
      if (randomNumber1==randomnumber2) {
-        document.querySelector("h1").innerHTML=("you are born in the the month of" +"" + tweet +" & your dice has equal number than unluck dice,you are on the edge sir 🗼");
+        document.querySelector("h1").innerHTML=("you are born in the the month of" +"" + tweet +" & your dice has equal number than unlucky devil dice,you are on the edge sir 🗼");
 
 
 
