@@ -32,7 +32,7 @@ document.querySelector("h1").innerHTML=("you are born in the month of " + "" + t
 
 } else if (randomNumber1<randomnumber2) {
 
-    document.querySelector("h1").innerHTML=("you are born in the the month of" +"" + tweet +" & your dice has lower number than unluck dice,tomorrow will be better sir 🗿");
+    document.querySelector("h1").innerHTML=("you are born in the the month of" +"" + tweet +" & your dice has lower number than unluck dice,may tomorrow you will luckier day sir 🗿");
 
      if (randomNumber1==randomnumber2) {
         document.querySelector("h1").innerHTML=("you are born in the the month of" +"" + tweet +" & your dice has equal number than unlucky devil dice,you are on the edge sir 🗼");
